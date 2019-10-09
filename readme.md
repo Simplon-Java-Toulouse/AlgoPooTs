@@ -58,16 +58,24 @@ console.log(andy.toString()); ---> Mc Dowell Andy 61 carnaby street Londres Engl
 
 3.6 : Réaliser le diagramme de classe ici
 
-**Conlusions**
+**Conlusions sur Algo & Poo avec TypeScript**
 
 **RAPPELS SUR LES CONSIGNES**
 
 ++ Prenez l'habitude de créer de nouveaux repo par thématique ou TP
+
 ++ Vous devez commenter vos codes et les faire relire par vos pairs idéalement
+
 ++ Vos programmes doivent précisemment répondre aux besoins exprimé
+
 ++ respecter les règles d'écriture de code et de fichier (maj-min)
+
 ++ Les noms de classe, attributs, méthodes/fonctions et variables doivent être en anglais, suffisamment explicite et compréhensible de tous
+
 ++ attention à l'indentation
+
 ++ tester et(ou) mettre en oeuvre des tests unitaires
+
 ++ utiliser Git & Github en mode console ou via votre ide
+
 ++ Une fois tous ces critères respectés, vous pouvez mettre votre repo sur github et partager le lien avec vos formateurs
