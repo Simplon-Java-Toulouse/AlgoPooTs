@@ -56,7 +56,9 @@ console.log(andy.toString()); ---> Mc Dowell Andy 61 carnaby street Londres Engl
       
       name:Cook | firstName:Tim | age:58 | address:Palo Alto | city Birth [name:Alabama | state:Usa | number of inhabitants:1000000] company:Apple | salary:250000 | working town [ name:Cupertino | state:Usa | number of inhabitants:450000]
 
-3.6 : Réaliser le diagramme de classe ici
+3.6 : Petit programme de simulation d'une boutique en ligne offrant la possibilitée donc d'inter agir avec l'utilisateur
+   lui permettant de voir une liste de produits dont il pourra constituer son caddy puis passer commande.
+   L'utilisateur doit pouvoir donc : voir la liste des produits, le contenu de son caddy, ajout ou suppression de produits...
 
 **Conlusions sur Algo & Poo avec TypeScript**
 
